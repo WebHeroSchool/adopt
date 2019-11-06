@@ -1,0 +1,30 @@
+@media (max-width:400px) {
+  .title {
+    font-size: 15px;
+  }
+}
+   @media (min-width:401px) and (max-width:599px) {
+     .title {
+       font-size: 30px;
+     }
+   }
+   @media (min-width:600px) and (max-width:767px) {
+     .title {
+       font-size: 45px;
+     }
+   }
+   @media (min-width:768px) and (max-width:950px) {
+     .title {
+       font-size: 60px;
+     }
+   }
+   @media (min-width:951px) and (max-width:1050px) {
+     .title {
+       font-size: 75px;
+     }
+   }
+   @media (min-width:1051px) {
+     .title {
+       font-size: 90px;
+     }
+   }
